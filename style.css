@@ -22,7 +22,7 @@ body
     border-radius:15px;
     height:500px;
     box-sizing: border-box;
-    background-color: black;
+    background-color: rgb(73, 128, 205);
     
 }   
 .main
@@ -109,4 +109,5 @@ body
 .text
 {
     font-size:30px;
+    color:white
 }
